@@ -50,7 +50,7 @@ const fetchAllProfiles = () => {
       .finally(() => {
         setTimeout(() => {
           loadingRef.current = false;
-        }, 2500); // 2.5s delay before allowing the next load
+        }, 2000); // 2s delay before allowing the next load
       });
   };
 
@@ -128,11 +128,11 @@ const topToss = [...uniqueAllProfiles].filter(p => p.id !== topBoss?.id).sort((a
 function ProfileCard({ profile, onVote }) {
   const imageSrc = profile.profile_picture && profile.profile_picture.trim() !== '' ? profile.profile_picture : '/default-avatar.png';
   return (
-    <div style={{ width: '250px', padding: '16px', border: '1px solid #ccc', borderRadius: '8px', textAlign: 'center', position: 'relative' }}>
+    <div style={{ width: '200px', padding: '10px', border: '1px solid #ccc', borderRadius: '8px', textAlign: 'center', position: 'relative' }}>
       <img
         src={imageSrc}
         alt={profile.name}
-        style={{ width: '250px', height: '250px', objectFit: 'cover', borderRadius: '8px' }}
+        style={{ width: '200px', height: '200px', objectFit: 'cover', borderRadius: '8px' }}
       />
       <div style={{ display: 'flex', justifyContent: 'center', gap: '8px', marginTop: '8px' }}>
         <button title="Vote Boss" onClick={() => onVote(profile.id, 'up')} style={{ fontSize: '20px', cursor: 'pointer' }}>👍</button>
@@ -148,12 +148,12 @@ function ProfileCard({ profile, onVote }) {
 function TopCard({ title, profile }) {
   const imageSrc = profile.profile_picture && profile.profile_picture.trim() !== '' ? profile.profile_picture : '/default-avatar.png';
   return (
-    <div style={{ width: '250px', padding: '16px', border: '2px solid #000', borderRadius: '10px', textAlign: 'center', backgroundColor: title === 'BOSS!' ? '#e0ffe0' : '#ffe0e0' }}>
+    <div style={{ width: '200px', padding: '10px', border: '2px solid #000', borderRadius: '10px', textAlign: 'center', backgroundColor: title === 'BOSS!' ? '#e0ffe0' : '#ffe0e0' }}>
       <h2>{title}</h2>
       <img
         src={imageSrc}
         alt={profile.name}
-        style={{ width: '250px', height: '250px', objectFit: 'cover', borderRadius: '8px' }}
+        style={{ width: '200px', height: '200px', objectFit: 'cover', borderRadius: '8px' }}
       />
       <h3>{profile.name}</h3>
       <p>{profile.title}</p>

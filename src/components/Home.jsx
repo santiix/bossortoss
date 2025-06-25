@@ -99,7 +99,7 @@ const topBoss = [...uniqueAllProfiles].sort((a, b) => (b.votes || 0) - (a.votes 
 const topToss = [...uniqueAllProfiles].filter(p => p.id !== topBoss?.id).sort((a, b) => (a.votes || 0) - (b.votes || 0))[0];
 
   return (
-    <div style={{ maxWidth: '900px', margin: '0 auto' }}>
+    <div style={{ maxWidth: '1024px', margin: '0 auto' }}>
       <header>
         <h1>Boss or Toss</h1>
       </header>

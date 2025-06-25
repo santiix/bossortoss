@@ -1,0 +1,841 @@
+company,role
+Charles Schwab,CEO
+Charles Schwab,CIO
+Charles Schwab,CTO
+Charles Schwab,CISO
+Charles Schwab,COO
+Charles Schwab,President
+Square Enix,CEO
+Square Enix,CIO
+Square Enix,CTO
+Square Enix,CISO
+Square Enix,COO
+Square Enix,President
+Activision Blizzard,CEO
+Activision Blizzard,CIO
+Activision Blizzard,CTO
+Activision Blizzard,CISO
+Activision Blizzard,COO
+Activision Blizzard,President
+Line Corporation,CEO
+Line Corporation,CIO
+Line Corporation,CTO
+Line Corporation,CISO
+Line Corporation,COO
+Line Corporation,President
+Grab,CEO
+Grab,CIO
+Grab,CTO
+Grab,CISO
+Grab,COO
+Grab,President
+Xiaomi,CEO
+Xiaomi,CIO
+Xiaomi,CTO
+Xiaomi,CISO
+Xiaomi,COO
+Xiaomi,President
+BYD,CEO
+BYD,CIO
+BYD,CTO
+BYD,CISO
+BYD,COO
+BYD,President
+Zomato,CEO
+Zomato,CIO
+Zomato,CTO
+Zomato,CISO
+Zomato,COO
+Zomato,President
+Sanofi,CEO
+Sanofi,CIO
+Sanofi,CTO
+Sanofi,CISO
+Sanofi,COO
+Sanofi,President
+Qatar Airways,CEO
+Qatar Airways,CIO
+Qatar Airways,CTO
+Qatar Airways,CISO
+Qatar Airways,COO
+Qatar Airways,President
+BAE Systems,CEO
+BAE Systems,CIO
+BAE Systems,CTO
+BAE Systems,CISO
+BAE Systems,COO
+BAE Systems,President
+Tesla,CEO
+Tesla,CIO
+Tesla,CTO
+Tesla,CISO
+Tesla,COO
+Tesla,President
+CyberArk,CEO
+CyberArk,CIO
+CyberArk,CTO
+CyberArk,CISO
+CyberArk,COO
+CyberArk,President
+Zscaler,CEO
+Zscaler,CIO
+Zscaler,CTO
+Zscaler,CISO
+Zscaler,COO
+Zscaler,President
+Foxconn,CEO
+Foxconn,CIO
+Foxconn,CTO
+Foxconn,CISO
+Foxconn,COO
+Foxconn,President
+Workday,CEO
+Workday,CIO
+Workday,CTO
+Workday,CISO
+Workday,COO
+Workday,President
+Intercom,CEO
+Intercom,CIO
+Intercom,CTO
+Intercom,CISO
+Intercom,COO
+Intercom,President
+Gartner,CEO
+Gartner,CIO
+Gartner,CTO
+Gartner,CISO
+Gartner,COO
+Gartner,President
+VMware,CEO
+VMware,CIO
+VMware,CTO
+VMware,CISO
+VMware,COO
+VMware,President
+Mondelez,CEO
+Mondelez,CIO
+Mondelez,CTO
+Mondelez,CISO
+Mondelez,COO
+Mondelez,President
+HP Inc.,CEO
+HP Inc.,CIO
+HP Inc.,CTO
+HP Inc.,CISO
+HP Inc.,COO
+HP Inc.,President
+Cloudflare,CEO
+Cloudflare,CIO
+Cloudflare,CTO
+Cloudflare,CISO
+Cloudflare,COO
+Cloudflare,President
+Rio Tinto,CEO
+Rio Tinto,CIO
+Rio Tinto,CTO
+Rio Tinto,CISO
+Rio Tinto,COO
+Rio Tinto,President
+Klarna,CEO
+Klarna,CIO
+Klarna,CTO
+Klarna,CISO
+Klarna,COO
+Klarna,President
+Nintendo,CEO
+Nintendo,CIO
+Nintendo,CTO
+Nintendo,CISO
+Nintendo,COO
+Nintendo,President
+Danone,CEO
+Danone,CIO
+Danone,CTO
+Danone,CISO
+Danone,COO
+Danone,President
+SAP,CEO
+SAP,CIO
+SAP,CTO
+SAP,CISO
+SAP,COO
+SAP,President
+Moderna,CEO
+Moderna,CIO
+Moderna,CTO
+Moderna,CISO
+Moderna,COO
+Moderna,President
+Fidelity,CEO
+Fidelity,CIO
+Fidelity,CTO
+Fidelity,CISO
+Fidelity,COO
+Fidelity,President
+Unity,CEO
+Unity,CIO
+Unity,CTO
+Unity,CISO
+Unity,COO
+Unity,President
+IDC,CEO
+IDC,CIO
+IDC,CTO
+IDC,CISO
+IDC,COO
+IDC,President
+Cognizant,CEO
+Cognizant,CIO
+Cognizant,CTO
+Cognizant,CISO
+Cognizant,COO
+Cognizant,President
+Lyft,CEO
+Lyft,CIO
+Lyft,CTO
+Lyft,CISO
+Lyft,COO
+Lyft,President
+Lufthansa,CEO
+Lufthansa,CIO
+Lufthansa,CTO
+Lufthansa,CISO
+Lufthansa,COO
+Lufthansa,President
+Hyundai,CEO
+Hyundai,CIO
+Hyundai,CTO
+Hyundai,CISO
+Hyundai,COO
+Hyundai,President
+Booking.com,CEO
+Booking.com,CIO
+Booking.com,CTO
+Booking.com,CISO
+Booking.com,COO
+Booking.com,President
+Box,CEO
+Box,CIO
+Box,CTO
+Box,CISO
+Box,COO
+Box,President
+Naver,CEO
+Naver,CIO
+Naver,CTO
+Naver,CISO
+Naver,COO
+Naver,President
+Vodafone,CEO
+Vodafone,CIO
+Vodafone,CTO
+Vodafone,CISO
+Vodafone,COO
+Vodafone,President
+Epic Games,CEO
+Epic Games,CIO
+Epic Games,CTO
+Epic Games,CISO
+Epic Games,COO
+Epic Games,President
+Worldline,CEO
+Worldline,CIO
+Worldline,CTO
+Worldline,CISO
+Worldline,COO
+Worldline,President
+Google Cloud,CEO
+Google Cloud,CIO
+Google Cloud,CTO
+Google Cloud,CISO
+Google Cloud,COO
+Google Cloud,President
+Snowflake,CEO
+Snowflake,CIO
+Snowflake,CTO
+Snowflake,CISO
+Snowflake,COO
+Snowflake,President
+GitLab,CEO
+GitLab,CIO
+GitLab,CTO
+GitLab,CISO
+GitLab,COO
+GitLab,President
+Panasonic,CEO
+Panasonic,CIO
+Panasonic,CTO
+Panasonic,CISO
+Panasonic,COO
+Panasonic,President
+TCS,CEO
+TCS,CIO
+TCS,CTO
+TCS,CISO
+TCS,COO
+TCS,President
+Airbus,CEO
+Airbus,CIO
+Airbus,CTO
+Airbus,CISO
+Airbus,COO
+Airbus,President
+Niantic,CEO
+Niantic,CIO
+Niantic,CTO
+Niantic,CISO
+Niantic,COO
+Niantic,President
+Zendesk,CEO
+Zendesk,CIO
+Zendesk,CTO
+Zendesk,CISO
+Zendesk,COO
+Zendesk,President
+Square,CEO
+Square,CIO
+Square,CTO
+Square,CISO
+Square,COO
+Square,President
+Singapore Airlines,CEO
+Singapore Airlines,CIO
+Singapore Airlines,CTO
+Singapore Airlines,CISO
+Singapore Airlines,COO
+Singapore Airlines,President
+Glencore,CEO
+Glencore,CIO
+Glencore,CTO
+Glencore,CISO
+Glencore,COO
+Glencore,President
+DigitalOcean,CEO
+DigitalOcean,CIO
+DigitalOcean,CTO
+DigitalOcean,CISO
+DigitalOcean,COO
+DigitalOcean,President
+Airtable,CEO
+Airtable,CIO
+Airtable,CTO
+Airtable,CISO
+Airtable,COO
+Airtable,President
+Flipkart,CEO
+Flipkart,CIO
+Flipkart,CTO
+Flipkart,CISO
+Flipkart,COO
+Flipkart,President
+FedEx,CEO
+FedEx,CIO
+FedEx,CTO
+FedEx,CISO
+FedEx,COO
+FedEx,President
+Lenovo,CEO
+Lenovo,CIO
+Lenovo,CTO
+Lenovo,CISO
+Lenovo,COO
+Lenovo,President
+Red Hat,CEO
+Red Hat,CIO
+Red Hat,CTO
+Red Hat,CISO
+Red Hat,COO
+Red Hat,President
+Fastly,CEO
+Fastly,CIO
+Fastly,CTO
+Fastly,CISO
+Fastly,COO
+Fastly,President
+Ubisoft,CEO
+Ubisoft,CIO
+Ubisoft,CTO
+Ubisoft,CISO
+Ubisoft,COO
+Ubisoft,President
+HashiCorp,CEO
+HashiCorp,CIO
+HashiCorp,CTO
+HashiCorp,CISO
+HashiCorp,COO
+HashiCorp,President
+NetEase Games,CEO
+NetEase Games,CIO
+NetEase Games,CTO
+NetEase Games,CISO
+NetEase Games,COO
+NetEase Games,President
+MercadoLibre,CEO
+MercadoLibre,CIO
+MercadoLibre,CTO
+MercadoLibre,CISO
+MercadoLibre,COO
+MercadoLibre,President
+Figma,CEO
+Figma,CIO
+Figma,CTO
+Figma,CISO
+Figma,COO
+Figma,President
+Meituan,CEO
+Meituan,CIO
+Meituan,CTO
+Meituan,CISO
+Meituan,COO
+Meituan,President
+Smartsheet,CEO
+Smartsheet,CIO
+Smartsheet,CTO
+Smartsheet,CISO
+Smartsheet,COO
+Smartsheet,President
+Rakuten,CEO
+Rakuten,CIO
+Rakuten,CTO
+Rakuten,CISO
+Rakuten,COO
+Rakuten,President
+AMD,CEO
+AMD,CIO
+AMD,CTO
+AMD,CISO
+AMD,COO
+AMD,President
+Thomson Reuters,CEO
+Thomson Reuters,CIO
+Thomson Reuters,CTO
+Thomson Reuters,CISO
+Thomson Reuters,COO
+Thomson Reuters,President
+Okta,CEO
+Okta,CIO
+Okta,CTO
+Okta,CISO
+Okta,COO
+Okta,President
+General Motors,CEO
+General Motors,CIO
+General Motors,CTO
+General Motors,CISO
+General Motors,COO
+General Motors,President
+Palo Alto Networks,CEO
+Palo Alto Networks,CIO
+Palo Alto Networks,CTO
+Palo Alto Networks,CISO
+Palo Alto Networks,COO
+Palo Alto Networks,President
+BP,CEO
+BP,CIO
+BP,CTO
+BP,CISO
+BP,COO
+BP,President
+Freshworks,CEO
+Freshworks,CIO
+Freshworks,CTO
+Freshworks,CISO
+Freshworks,COO
+Freshworks,President
+ZoomInfo,CEO
+ZoomInfo,CIO
+ZoomInfo,CTO
+ZoomInfo,CISO
+ZoomInfo,COO
+ZoomInfo,President
+DocuSign,CEO
+DocuSign,CIO
+DocuSign,CTO
+DocuSign,CISO
+DocuSign,COO
+DocuSign,President
+Southwest Airlines,CEO
+Southwest Airlines,CIO
+Southwest Airlines,CTO
+Southwest Airlines,CISO
+Southwest Airlines,COO
+Southwest Airlines,President
+AT&T,CEO
+AT&T,CIO
+AT&T,CTO
+AT&T,CISO
+AT&T,COO
+AT&T,President
+DoorDash,CEO
+DoorDash,CIO
+DoorDash,CTO
+DoorDash,CISO
+DoorDash,COO
+DoorDash,President
+ClickUp,CEO
+ClickUp,CIO
+ClickUp,CTO
+ClickUp,CISO
+ClickUp,COO
+ClickUp,President
+Adyen,CEO
+Adyen,CIO
+Adyen,CTO
+Adyen,CISO
+Adyen,COO
+Adyen,President
+GoDaddy,CEO
+GoDaddy,CIO
+GoDaddy,CTO
+GoDaddy,CISO
+GoDaddy,COO
+GoDaddy,President
+Forrester,CEO
+Forrester,CIO
+Forrester,CTO
+Forrester,CISO
+Forrester,COO
+Forrester,President
+Deutsche Telekom,CEO
+Deutsche Telekom,CIO
+Deutsche Telekom,CTO
+Deutsche Telekom,CISO
+Deutsche Telekom,COO
+Deutsche Telekom,President
+KPMG,CEO
+KPMG,CIO
+KPMG,CTO
+KPMG,CISO
+KPMG,COO
+KPMG,President
+Expedia,CEO
+Expedia,CIO
+Expedia,CTO
+Expedia,CISO
+Expedia,COO
+Expedia,President
+Monday.com,CEO
+Monday.com,CIO
+Monday.com,CTO
+Monday.com,CISO
+Monday.com,COO
+Monday.com,President
+Linode,CEO
+Linode,CIO
+Linode,CTO
+Linode,CISO
+Linode,COO
+Linode,President
+SAIC Motor,CEO
+SAIC Motor,CIO
+SAIC Motor,CTO
+SAIC Motor,CISO
+SAIC Motor,COO
+SAIC Motor,President
+Tyson Foods,CEO
+Tyson Foods,CIO
+Tyson Foods,CTO
+Tyson Foods,CISO
+Tyson Foods,COO
+Tyson Foods,President
+Morningstar,CEO
+Morningstar,CIO
+Morningstar,CTO
+Morningstar,CISO
+Morningstar,COO
+Morningstar,President
+Bloomberg,CEO
+Bloomberg,CIO
+Bloomberg,CTO
+Bloomberg,CISO
+Bloomberg,COO
+Bloomberg,President
+Acer,CEO
+Acer,CIO
+Acer,CTO
+Acer,CISO
+Acer,COO
+Acer,President
+Bayer,CEO
+Bayer,CIO
+Bayer,CTO
+Bayer,CISO
+Bayer,COO
+Bayer,President
+Delta Air Lines,CEO
+Delta Air Lines,CIO
+Delta Air Lines,CTO
+Delta Air Lines,CISO
+Delta Air Lines,COO
+Delta Air Lines,President
+WeWork,CEO
+WeWork,CIO
+WeWork,CTO
+WeWork,CISO
+WeWork,COO
+WeWork,President
+S&P Global,CEO
+S&P Global,CIO
+S&P Global,CTO
+S&P Global,CISO
+S&P Global,COO
+S&P Global,President
+Nutanix,CEO
+Nutanix,CIO
+Nutanix,CTO
+Nutanix,CISO
+Nutanix,COO
+Nutanix,President
+Lockheed Martin,CEO
+Lockheed Martin,CIO
+Lockheed Martin,CTO
+Lockheed Martin,CISO
+Lockheed Martin,COO
+Lockheed Martin,President
+Qantas,CEO
+Qantas,CIO
+Qantas,CTO
+Qantas,CISO
+Qantas,COO
+Qantas,President
+Kia,CEO
+Kia,CIO
+Kia,CTO
+Kia,CISO
+Kia,COO
+Kia,President
+Zoom,CEO
+Zoom,CIO
+Zoom,CTO
+Zoom,CISO
+Zoom,COO
+Zoom,President
+Stellantis,CEO
+Stellantis,CIO
+Stellantis,CTO
+Stellantis,CISO
+Stellantis,COO
+Stellantis,President
+Sprinklr,CEO
+Sprinklr,CIO
+Sprinklr,CTO
+Sprinklr,CISO
+Sprinklr,COO
+Sprinklr,President
+Kakao,CEO
+Kakao,CIO
+Kakao,CTO
+Kakao,CISO
+Kakao,COO
+Kakao,President
+Github,CEO
+Github,CIO
+Github,CTO
+Github,CISO
+Github,COO
+Github,President
+MongoDB,CEO
+MongoDB,CIO
+MongoDB,CTO
+MongoDB,CISO
+MongoDB,COO
+MongoDB,President
+American Airlines,CEO
+American Airlines,CIO
+American Airlines,CTO
+American Airlines,CISO
+American Airlines,COO
+American Airlines,President
+Akamai,CEO
+Akamai,CIO
+Akamai,CTO
+Akamai,CISO
+Akamai,COO
+Akamai,President
+Wayfair,CEO
+Wayfair,CIO
+Wayfair,CTO
+Wayfair,CISO
+Wayfair,COO
+Wayfair,President
+ASUS,CEO
+ASUS,CIO
+ASUS,CTO
+ASUS,CISO
+ASUS,COO
+ASUS,President
+Huawei,CEO
+Huawei,CIO
+Huawei,CTO
+Huawei,CISO
+Huawei,COO
+Huawei,President
+BASF,CEO
+BASF,CIO
+BASF,CTO
+BASF,CISO
+BASF,COO
+BASF,President
+Infosys,CEO
+Infosys,CIO
+Infosys,CTO
+Infosys,CISO
+Infosys,COO
+Infosys,President
+WeTransfer,CEO
+WeTransfer,CIO
+WeTransfer,CTO
+WeTransfer,CISO
+WeTransfer,COO
+WeTransfer,President
+PayPal,CEO
+PayPal,CIO
+PayPal,CTO
+PayPal,CISO
+PayPal,COO
+PayPal,President
+Slack,CEO
+Slack,CIO
+Slack,CTO
+Slack,CISO
+Slack,COO
+Slack,President
+Fortinet,CEO
+Fortinet,CIO
+Fortinet,CTO
+Fortinet,CISO
+Fortinet,COO
+Fortinet,President
+Vale,CEO
+Vale,CIO
+Vale,CTO
+Vale,CISO
+Vale,COO
+Vale,President
+Dell Technologies,CEO
+Dell Technologies,CIO
+Dell Technologies,CTO
+Dell Technologies,CISO
+Dell Technologies,COO
+Dell Technologies,President
+SentinelOne,CEO
+SentinelOne,CIO
+SentinelOne,CTO
+SentinelOne,CISO
+SentinelOne,COO
+SentinelOne,President
+Lazada,CEO
+Lazada,CIO
+Lazada,CTO
+Lazada,CISO
+Lazada,COO
+Lazada,President
+Revolut,CEO
+Revolut,CIO
+Revolut,CTO
+Revolut,CISO
+Revolut,COO
+Revolut,President
+JD.com,CEO
+JD.com,CIO
+JD.com,CTO
+JD.com,CISO
+JD.com,COO
+JD.com,President
+Citrix,CEO
+Citrix,CIO
+Citrix,CTO
+Citrix,CISO
+Citrix,COO
+Citrix,President
+Riot Games,CEO
+Riot Games,CIO
+Riot Games,CTO
+Riot Games,CISO
+Riot Games,COO
+Riot Games,President
+Zoho,CEO
+Zoho,CIO
+Zoho,CTO
+Zoho,CISO
+Zoho,COO
+Zoho,President
+Orange,CEO
+Orange,CIO
+Orange,CTO
+Orange,CISO
+Orange,COO
+Orange,President
+eBay,CEO
+eBay,CIO
+eBay,CTO
+eBay,CISO
+eBay,COO
+eBay,President
+Baidu,CEO
+Baidu,CIO
+Baidu,CTO
+Baidu,CISO
+Baidu,COO
+Baidu,President
+Gilead Sciences,CEO
+Gilead Sciences,CIO
+Gilead Sciences,CTO
+Gilead Sciences,CISO
+Gilead Sciences,COO
+Gilead Sciences,President
+Emirates,CEO
+Emirates,CIO
+Emirates,CTO
+Emirates,CISO
+Emirates,COO
+Emirates,President
+Check Point,CEO
+Check Point,CIO
+Check Point,CTO
+Check Point,CISO
+Check Point,COO
+Check Point,President
+Elastic,CEO
+Elastic,CIO
+Elastic,CTO
+Elastic,CISO
+Elastic,COO
+Elastic,President
+HubSpot,CEO
+HubSpot,CIO
+HubSpot,CTO
+HubSpot,CISO
+HubSpot,COO
+HubSpot,President
+Accenture,CEO
+Accenture,CIO
+Accenture,CTO
+Accenture,CISO
+Accenture,COO
+Accenture,President
+SK Hynix,CEO
+SK Hynix,CIO
+SK Hynix,CTO
+SK Hynix,CISO
+SK Hynix,COO
+SK Hynix,President
+Valve,CEO
+Valve,CIO
+Valve,CTO
+Valve,CISO
+Valve,COO
+Valve,President
+AWS,CEO
+AWS,CIO
+AWS,CTO
+AWS,CISO
+AWS,COO
+AWS,President
+Bandai Namco,CEO
+Bandai Namco,CIO
+Bandai Namco,CTO
+Bandai Namco,CISO
+Bandai Namco,COO
+Bandai Namco,President

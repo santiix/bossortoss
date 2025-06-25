@@ -1,0 +1,24 @@
+---
+// Executives.astro
+import { createClient } from '@supabase/supabase-js';
+
+const supabase = createClient(import.meta.env.PUBLIC_SUPABASE_URL, import.meta.env.PUBLIC_SUPABASE_ANON_KEY);
+const { data: executives } = await supabase.from('executives').select('*');
+---
+
+<ul>
+  {executives.map(exec => (
+    <li>
+      <h3>{exec.name} — {exec.title} @ {exec.current_company}</h3>
+      <img src={exec.profile_picture} alt={exec.name} width="100" />
+      <p><a href={exec.linkedin_url} target="_blank">LinkedIn</a></p>
+
+      <strong>Past Employers:</strong>
+      <ul>
+        {exec.past_companies?.map(job => (
+          <li>{job.title} at {job.company} ({job.years})</li>
+        ))}
+      </ul>
+    </li>
+  ))}
+</ul>

@@ -1,0 +1,607 @@
+company,role
+Apple,CEO
+Apple,CTO
+Apple,CIO
+Microsoft,CEO
+Microsoft,CTO
+Microsoft,CIO
+Saudi Aramco,CEO
+Saudi Aramco,CTO
+Saudi Aramco,CIO
+Alphabet,CEO
+Alphabet,CTO
+Alphabet,CIO
+Amazon,CEO
+Amazon,CTO
+Amazon,CIO
+NVIDIA,CEO
+NVIDIA,CTO
+NVIDIA,CIO
+Berkshire Hathaway,CEO
+Berkshire Hathaway,CTO
+Berkshire Hathaway,CIO
+Meta Platforms,CEO
+Meta Platforms,CTO
+Meta Platforms,CIO
+Eli Lilly,CEO
+Eli Lilly,CTO
+Eli Lilly,CIO
+TSMC,CEO
+TSMC,CTO
+TSMC,CIO
+Visa,CEO
+Visa,CTO
+Visa,CIO
+JPMorgan Chase,CEO
+JPMorgan Chase,CTO
+JPMorgan Chase,CIO
+Johnson & Johnson,CEO
+Johnson & Johnson,CTO
+Johnson & Johnson,CIO
+ExxonMobil,CEO
+ExxonMobil,CTO
+ExxonMobil,CIO
+Walmart,CEO
+Walmart,CTO
+Walmart,CIO
+UnitedHealth Group,CEO
+UnitedHealth Group,CTO
+UnitedHealth Group,CIO
+Nestlé,CEO
+Nestlé,CTO
+Nestlé,CIO
+Novo Nordisk,CEO
+Novo Nordisk,CTO
+Novo Nordisk,CIO
+Samsung,CEO
+Samsung,CTO
+Samsung,CIO
+Procter & Gamble,CEO
+Procter & Gamble,CTO
+Procter & Gamble,CIO
+Mastercard,CEO
+Mastercard,CTO
+Mastercard,CIO
+Roche,CEO
+Roche,CTO
+Roche,CIO
+Kweichow Moutai,CEO
+Kweichow Moutai,CTO
+Kweichow Moutai,CIO
+Chevron,CEO
+Chevron,CTO
+Chevron,CIO
+ASML,CEO
+ASML,CTO
+ASML,CIO
+Home Depot,CEO
+Home Depot,CTO
+Home Depot,CIO
+Merck,CEO
+Merck,CTO
+Merck,CIO
+Toyota,CEO
+Toyota,CTO
+Toyota,CIO
+AbbVie,CEO
+AbbVie,CTO
+AbbVie,CIO
+Oracle,CEO
+Oracle,CTO
+Oracle,CIO
+Coca-Cola,CEO
+Coca-Cola,CTO
+Coca-Cola,CIO
+PepsiCo,CEO
+PepsiCo,CTO
+PepsiCo,CIO
+Broadcom,CEO
+Broadcom,CTO
+Broadcom,CIO
+Alibaba,CEO
+Alibaba,CTO
+Alibaba,CIO
+Pfizer,CEO
+Pfizer,CTO
+Pfizer,CIO
+Cisco,CEO
+Cisco,CTO
+Cisco,CIO
+Adobe,CEO
+Adobe,CTO
+Adobe,CIO
+Shell,CEO
+Shell,CTO
+Shell,CIO
+Thermo Fisher,CEO
+Thermo Fisher,CTO
+Thermo Fisher,CIO
+Novartis,CEO
+Novartis,CTO
+Novartis,CIO
+Bank of America,CEO
+Bank of America,CTO
+Bank of America,CIO
+Costco,CEO
+Costco,CTO
+Costco,CIO
+Comcast,CEO
+Comcast,CTO
+Comcast,CIO
+HSBC,CEO
+HSBC,CTO
+HSBC,CIO
+Abbott,CEO
+Abbott,CTO
+Abbott,CIO
+Netflix,CEO
+Netflix,CTO
+Netflix,CIO
+T-Mobile,CEO
+T-Mobile,CTO
+T-Mobile,CIO
+Danaher,CEO
+Danaher,CTO
+Danaher,CIO
+L'Oréal,CEO
+L'Oréal,CTO
+L'Oréal,CIO
+Intel,CEO
+Intel,CTO
+Intel,CIO
+Walt Disney,CEO
+Walt Disney,CTO
+Walt Disney,CIO
+Verizon,CEO
+Verizon,CTO
+Verizon,CIO
+China Mobile,CEO
+China Mobile,CTO
+China Mobile,CIO
+Tencent,CEO
+Tencent,CTO
+Tencent,CIO
+Salesforce,CEO
+Salesforce,CTO
+Salesforce,CIO
+Reliance,CEO
+Reliance,CTO
+Reliance,CIO
+Wells Fargo,CEO
+Wells Fargo,CTO
+Wells Fargo,CIO
+McDonald’s,CEO
+McDonald’s,CTO
+McDonald’s,CIO
+Texas Instruments,CEO
+Texas Instruments,CTO
+Texas Instruments,CIO
+Bristol Myers Squibb,CEO
+Bristol Myers Squibb,CTO
+Bristol Myers Squibb,CIO
+Amgen,CEO
+Amgen,CTO
+Amgen,CIO
+Raytheon,CEO
+Raytheon,CTO
+Raytheon,CIO
+Qualcomm,CEO
+Qualcomm,CTO
+Qualcomm,CIO
+Medtronic,CEO
+Medtronic,CTO
+Medtronic,CIO
+IBM,CEO
+IBM,CTO
+IBM,CIO
+Unilever,CEO
+Unilever,CTO
+Unilever,CIO
+Intuit,CEO
+Intuit,CTO
+Intuit,CIO
+Philip Morris,CEO
+Philip Morris,CTO
+Philip Morris,CIO
+AXA,CEO
+AXA,CTO
+AXA,CIO
+Union Pacific,CEO
+Union Pacific,CTO
+Union Pacific,CIO
+Booking Holdings,CEO
+Booking Holdings,CTO
+Booking Holdings,CIO
+BHP Group,CEO
+BHP Group,CTO
+BHP Group,CIO
+Sony,CEO
+Sony,CTO
+Sony,CIO
+General Electric,CEO
+General Electric,CTO
+General Electric,CIO
+TotalEnergies,CEO
+TotalEnergies,CTO
+TotalEnergies,CIO
+ServiceNow,CEO
+ServiceNow,CTO
+ServiceNow,CIO
+RTX Corporation,CEO
+RTX Corporation,CTO
+RTX Corporation,CIO
+Starbucks,CEO
+Starbucks,CTO
+Starbucks,CIO
+Goldman Sachs,CEO
+Goldman Sachs,CTO
+Goldman Sachs,CIO
+Charter Communications,CEO
+Charter Communications,CTO
+Charter Communications,CIO
+UPS,CEO
+UPS,CTO
+UPS,CIO
+American Express,CEO
+American Express,CTO
+American Express,CIO
+Caterpillar,CEO
+Caterpillar,CTO
+Caterpillar,CIO
+GSK,CEO
+GSK,CTO
+GSK,CIO
+Airbnb,CEO
+Airbnb,CTO
+Airbnb,CIO
+Volkswagen,CEO
+Volkswagen,CTO
+Volkswagen,CIO
+Schneider Electric,CEO
+Schneider Electric,CTO
+Schneider Electric,CIO
+Deere & Company,CEO
+Deere & Company,CTO
+Deere & Company,CIO
+Ford,CEO
+Ford,CTO
+Ford,CIO
+Boeing,CEO
+Boeing,CTO
+Boeing,CIO
+Ferrari,CEO
+Ferrari,CTO
+Ferrari,CIO
+Target,CEO
+Target,CTO
+Target,CIO
+Uber,CEO
+Uber,CTO
+Uber,CIO
+CVS Health,CEO
+CVS Health,CTO
+CVS Health,CIO
+Colgate-Palmolive,CEO
+Colgate-Palmolive,CTO
+Colgate-Palmolive,CIO
+Anthem,CEO
+Anthem,CTO
+Anthem,CIO
+3M,CEO
+3M,CTO
+3M,CIO
+Volkswagen,CEO
+Volkswagen,CTO
+Volkswagen,CIO
+Siemens,CEO
+Siemens,CTO
+Siemens,CIO
+Shell,CEO
+Shell,CTO
+Shell,CIO
+Cargill,CEO
+Cargill,CTO
+Cargill,CIO
+Koch Industries,CEO
+Koch Industries,CTO
+Koch Industries,CIO
+Publix,CEO
+Publix,CTO
+Publix,CIO
+Mars,CEO
+Mars,CTO
+Mars,CIO
+H-E-B,CEO
+H-E-B,CTO
+H-E-B,CIO
+Pilot Company,CEO
+Pilot Company,CTO
+Pilot Company,CIO
+Albertsons,CEO
+Albertsons,CTO
+Albertsons,CIO
+Ernst & Young,CEO
+Ernst & Young,CTO
+Ernst & Young,CIO
+PricewaterhouseCoopers,CEO
+PricewaterhouseCoopers,CTO
+PricewaterhouseCoopers,CIO
+Deloitte,CEO
+Deloitte,CTO
+Deloitte,CIO
+Bechtel,CEO
+Bechtel,CTO
+Bechtel,CIO
+Reyes Holdings,CEO
+Reyes Holdings,CTO
+Reyes Holdings,CIO
+Enterprise Holdings,CEO
+Enterprise Holdings,CTO
+Enterprise Holdings,CIO
+C&S Wholesale Grocers,CEO
+C&S Wholesale Grocers,CTO
+C&S Wholesale Grocers,CIO
+Love's Travel Stops,CEO
+Love's Travel Stops,CTO
+Love's Travel Stops,CIO
+JM Family Enterprises,CEO
+JM Family Enterprises,CTO
+JM Family Enterprises,CIO
+Publix Super Markets,CEO
+Publix Super Markets,CTO
+Publix Super Markets,CIO
+Meijer,CEO
+Meijer,CTO
+Meijer,CIO
+State Farm,CEO
+State Farm,CTO
+State Farm,CIO
+Northwestern Mutual,CEO
+Northwestern Mutual,CTO
+Northwestern Mutual,CIO
+HCA Healthcare,CEO
+HCA Healthcare,CTO
+HCA Healthcare,CIO
+US Foods,CEO
+US Foods,CTO
+US Foods,CIO
+SC Johnson,CEO
+SC Johnson,CTO
+SC Johnson,CIO
+McKinsey & Company,CEO
+McKinsey & Company,CTO
+McKinsey & Company,CIO
+Edward Jones,CEO
+Edward Jones,CTO
+Edward Jones,CIO
+Plains All American Pipeline,CEO
+Plains All American Pipeline,CTO
+Plains All American Pipeline,CIO
+Hearst,CEO
+Hearst,CTO
+Hearst,CIO
+PWC,CEO
+PWC,CTO
+PWC,CIO
+Cox Enterprises,CEO
+Cox Enterprises,CTO
+Cox Enterprises,CIO
+Guardian Life,CEO
+Guardian Life,CTO
+Guardian Life,CIO
+Aflac,CEO
+Aflac,CTO
+Aflac,CIO
+Ahold Delhaize,CEO
+Ahold Delhaize,CTO
+Ahold Delhaize,CIO
+Crowe,CEO
+Crowe,CTO
+Crowe,CIO
+Wegmans,CEO
+Wegmans,CTO
+Wegmans,CIO
+Amway,CEO
+Amway,CTO
+Amway,CIO
+Bi-Mart,CEO
+Bi-Mart,CTO
+Bi-Mart,CIO
+Mutual of Omaha,CEO
+Mutual of Omaha,CTO
+Mutual of Omaha,CIO
+Land O’Lakes,CEO
+Land O’Lakes,CTO
+Land O’Lakes,CIO
+CHS Inc.,CEO
+CHS Inc.,CTO
+CHS Inc.,CIO
+Hallmark Cards,CEO
+Hallmark Cards,CTO
+Hallmark Cards,CIO
+Southern Glazer's Wine & Spirits,CEO
+Southern Glazer's Wine & Spirits,CTO
+Southern Glazer's Wine & Spirits,CIO
+Medline,CEO
+Medline,CTO
+Medline,CIO
+Perdue Farms,CEO
+Perdue Farms,CTO
+Perdue Farms,CIO
+Bimbo Bakeries,CEO
+Bimbo Bakeries,CTO
+Bimbo Bakeries,CIO
+Subway,CEO
+Subway,CTO
+Subway,CIO
+Goya Foods,CEO
+Goya Foods,CTO
+Goya Foods,CIO
+IKEA USA,CEO
+IKEA USA,CTO
+IKEA USA,CIO
+Menard,CEO
+Menard,CTO
+Menard,CIO
+Staples,CEO
+Staples,CTO
+Staples,CIO
+Gensler,CEO
+Gensler,CTO
+Gensler,CIO
+Bain & Company,CEO
+Bain & Company,CTO
+Bain & Company,CIO
+Wawa,CEO
+Wawa,CTO
+Wawa,CIO
+JBS USA,CEO
+JBS USA,CTO
+JBS USA,CIO
+Blackstone,CEO
+Blackstone,CTO
+Blackstone,CIO
+Harbor Freight,CEO
+Harbor Freight,CTO
+Harbor Freight,CIO
+Nucor,CEO
+Nucor,CTO
+Nucor,CIO
+Shaw Industries,CEO
+Shaw Industries,CTO
+Shaw Industries,CIO
+Michael Foods,CEO
+Michael Foods,CTO
+Michael Foods,CIO
+Rite Aid,CEO
+Rite Aid,CTO
+Rite Aid,CIO
+Jeld-Wen,CEO
+Jeld-Wen,CTO
+Jeld-Wen,CIO
+The Wonderful Company,CEO
+The Wonderful Company,CTO
+The Wonderful Company,CIO
+Ancestry,CEO
+Ancestry,CTO
+Ancestry,CIO
+SpaceX,CEO
+SpaceX,CTO
+SpaceX,CIO
+Epic Systems,CEO
+Epic Systems,CTO
+Epic Systems,CIO
+Palantir,CEO
+Palantir,CTO
+Palantir,CIO
+Stripe,CEO
+Stripe,CTO
+Stripe,CIO
+Plaid,CEO
+Plaid,CTO
+Plaid,CIO
+Chime,CEO
+Chime,CTO
+Chime,CIO
+Instacart,CEO
+Instacart,CTO
+Instacart,CIO
+Fanatics,CEO
+Fanatics,CTO
+Fanatics,CIO
+Shein,CEO
+Shein,CTO
+Shein,CIO
+ByteDance,CEO
+ByteDance,CTO
+ByteDance,CIO
+Databricks,CEO
+Databricks,CTO
+Databricks,CIO
+Discord,CEO
+Discord,CTO
+Discord,CIO
+Reddit,CEO
+Reddit,CTO
+Reddit,CIO
+Grammarly,CEO
+Grammarly,CTO
+Grammarly,CIO
+Brex,CEO
+Brex,CTO
+Brex,CIO
+Notion,CEO
+Notion,CTO
+Notion,CIO
+Miro,CEO
+Miro,CTO
+Miro,CIO
+Zapier,CEO
+Zapier,CTO
+Zapier,CIO
+Netskope,CEO
+Netskope,CTO
+Netskope,CIO
+ServiceTitan,CEO
+ServiceTitan,CTO
+ServiceTitan,CIO
+Duolingo,CEO
+Duolingo,CTO
+Duolingo,CIO
+Gusto,CEO
+Gusto,CTO
+Gusto,CIO
+Benchling,CEO
+Benchling,CTO
+Benchling,CIO
+Postman,CEO
+Postman,CTO
+Postman,CIO
+Anduril,CEO
+Anduril,CTO
+Anduril,CIO
+Rivian,CEO
+Rivian,CTO
+Rivian,CIO
+Lucid Motors,CEO
+Lucid Motors,CTO
+Lucid Motors,CIO
+Carvana,CEO
+Carvana,CTO
+Carvana,CIO
+Neuralink,CEO
+Neuralink,CTO
+Neuralink,CIO
+OpenAI,CEO
+OpenAI,CTO
+OpenAI,CIO
+Gemini,CEO
+Gemini,CTO
+Gemini,CIO
+Ro,CEO
+Ro,CTO
+Ro,CIO
+Samsara,CEO
+Samsara,CTO
+Samsara,CIO
+Convoy,CEO
+Convoy,CTO
+Convoy,CIO
+Faire,CEO
+Faire,CTO
+Faire,CIO
+Rippling,CEO
+Rippling,CTO
+Rippling,CIO
+Pipe,CEO
+Pipe,CTO
+Pipe,CIO
+Scale AI,CEO
+Scale AI,CTO
+Scale AI,CIO
+Weights & Biases,CEO
+Weights & Biases,CTO
+Weights & Biases,CIO
+Shield AI,CEO
+Shield AI,CTO
+Shield AI,CIO

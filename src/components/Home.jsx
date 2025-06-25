@@ -1,7 +1,5 @@
 import { useEffect, useState, useRef } from 'react';
 
-fetch('/.netlify/functions/get-profiles-with-votes')
-
 const itemsPerPage = 20;
 
 export default function Home() {

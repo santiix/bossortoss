@@ -4,3 +4,6 @@
 
 [dev]
   autoLaunch = false
+
+[build.environment]
+NODE_VERSION = "20"

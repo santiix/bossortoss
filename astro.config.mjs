@@ -1,9 +1,8 @@
-
-import { defineConfig } from 'astro/config';
-import react from '@astrojs/react';
+import { defineConfig } from "astro/config";
+import react from "@astrojs/react";
+import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  integrations: [react()],
-  site: 'http://localhost:4321', // or your future live domain
+  integrations: [react(), tailwind()],
 });
 

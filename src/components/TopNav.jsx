@@ -1,44 +1,37 @@
-export default function TopNav({ search, setSearch }) {
-  return (
-    <header style={styles.header}>
-      <div style={styles.logo}>👔 Boss or Toss</div>
+import React, { useState } from 'react';
 
-      <input
-        type="text"
-        placeholder="Search name or company..."
-        value={search}
-        onChange={(e) => setSearch(e.target.value)}
-        style={styles.search}
-      />
-    </header>
+export default function TopNav({ search, setSearch }) {
+  const [showSearch, setShowSearch] = useState(false);
+
+  return (
+    <div className="topnav-container">
+      {/* Spacer to help center the logo */}
+      <div className="spacer" />
+
+      {/* Centered logo */}
+      <div className="centered-logo">
+        <img src="/logo.png" alt="logo" className="logo" />
+      </div>
+
+      {/* Right-side controls: Search button + conditional input */}
+      <div className="right-controls">
+        {showSearch && (
+          <input
+            type="text"
+            className="search-input"
+            placeholder="Search bosses..."
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+          />
+        )}
+        <button
+          className="search-icon"
+          onClick={() => setShowSearch(!showSearch)}
+          title="Toggle Search"
+        >
+          🔍
+        </button>
+      </div>
+    </div>
   );
 }
-
-const styles = {
-  header: {
-    position: 'sticky',
-    top: 0,
-    zIndex: 1000,
-    backgroundColor: '#ffffff',
-    borderBottom: '1px solid #ddd',
-    padding: '10px 20px',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    gap: '10px',
-    boxShadow: '0 2px 4px rgba(0,0,0,0.05)',
-  },
-  logo: {
-    fontWeight: 'bold',
-    fontSize: '18px',
-    whiteSpace: 'nowrap',
-  },
-  search: {
-    flex: 1,
-    maxWidth: '400px',
-    padding: '8px 12px',
-    fontSize: '14px',
-    borderRadius: '6px',
-    border: '1px solid #ccc',
-  },
-};

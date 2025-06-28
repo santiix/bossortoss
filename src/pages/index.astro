@@ -1,5 +1,16 @@
 ---
 import Home from '../components/Home.jsx';
+import BaseHead from '../components/BaseHead.astro';
 ---
 
 <Home client:only="react" />
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <BaseHead title="Boss or Toss" description="Rate your boss" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

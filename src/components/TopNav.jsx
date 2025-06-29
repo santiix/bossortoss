@@ -4,22 +4,19 @@ export default function TopNav({ search, setSearch }) {
   const [showSearch, setShowSearch] = useState(false);
 
   return (
-    <div className="topnav-container">
-      {/* Spacer to help center the logo */}
-      <div className="spacer" />
-
-      {/* Centered logo */}
-      <div className="centered-logo">
+    <div className="topbar">
+      {/* Left: Logo */}
+      <div className="left-logo">
         <img src="/logo.png" alt="logo" className="logo" />
       </div>
 
-      {/* Right-side controls: Search button + conditional input */}
+      {/* Right: Search toggle + input */}
       <div className="right-controls">
         {showSearch && (
           <input
             type="text"
             className="search-input"
-            placeholder="Search bosses..."
+            placeholder="Companies & Executives..."
             value={search}
             onChange={(e) => setSearch(e.target.value)}
           />

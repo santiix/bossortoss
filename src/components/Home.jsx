@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useRef } from 'react';
 import TopNav from '../components/TopNav';
+import '../styles/global.css';
 
 const itemsPerPage = 20;
 
@@ -163,21 +164,32 @@ export default function Home() {
         <TopNav search={search} setSearch={setSearch} />
       </div>
 
-      <section className="card-container" style={{ paddingTop: '30px', paddingBottom: '20px' }}>
-        <h2 style={{ textAlign: 'center', marginBottom: '16px' }}>Top Boss & Toss</h2>
-        {isLoadingTop ? (
-          <div style={{ display: 'flex', gap: '16px', justifyContent: 'center' }}>
-            <SkeletonCard />
-            <SkeletonCard />
-          </div>
-        ) : (
-          <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
-            {topBoss && <TopCard title="BOSS!" profile={topBoss} />}
-            {topToss && <TopCard title="TOSS!" profile={topToss} />}
-          </div>
-        )}
-        <hr style={{ marginTop: '30px', marginBottom: '30px', borderTop: '2px solid #ccc' }} />
-      </section>
+<section style={{ paddingTop: '30px', paddingBottom: '20px' }}>
+  <h2 style={{ textAlign: 'center', marginBottom: '16px' }}>Top Boss & Toss</h2>
+  {isLoadingTop ? (
+    <div style={{ display: 'flex', gap: '16px', justifyContent: 'center' }}>
+      <SkeletonCard />
+      <SkeletonCard />
+    </div>
+  ) : (
+    <div
+      style={{
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'flex-start',
+        flexWrap: 'wrap',
+        gap: '16px',
+        margin: '0 auto',
+        maxWidth: '100%'
+      }}
+    >
+      {topBoss && <TopCard title="BOSS!" profile={topBoss} />}
+      {topToss && <TopCard title="TOSS!" profile={topToss} />}
+    </div>
+  )}
+  <hr style={{ marginTop: '30px', marginBottom: '30px', borderTop: '2px solid #ccc' }} />
+</section>
+
 
       <section>
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', justifyContent: 'center' }}>
